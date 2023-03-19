@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunksopimem"]=self["webpackChunksopimem"]||[]).push([[739],{9739:function(s,t,c){c.r(t),c.d(t,{default:function(){return d}});var n=c(6252);const e={class:"grid"},r=(0,n._)("div",{class:"col-12"},[(0,n._)("div",{class:"card"},[(0,n._)("h5",null,"Empty Page"),(0,n._)("p",null,"Use this page to start from scratch and place your custom content.")])],-1),a=[r];function u(s,t,c,r,u,o){return(0,n.wg)(),(0,n.iD)("div",e,a)}var o={},i=c(3744);const l=(0,i.Z)(o,[["render",u]]);var d=l}}]);
+//# sourceMappingURL=739.d2a35865.js.map
