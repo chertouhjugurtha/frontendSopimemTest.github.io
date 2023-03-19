@@ -1,0 +1,63 @@
+[
+    {
+        "section": "B",
+        "division": "",
+        "groupes": []
+    },
+{
+        "section": "B",
+        "division": "05",
+        "groupes": [
+            {
+                "groupe": "05.0",
+                "classes": [],
+                "libelles_groupe": "Extraction de houille et de lignite"
+            }
+        ],
+        "libelles_division": "Extraction de houille et de lignite"
+    }
+{
+        "section": "B",
+        "division": "05",
+        "groupes": [
+            {
+                "groupe": "05.0",
+                "classes": [],
+                "libelles_groupe": "Extraction de houille et de lignite"
+            },
+            {
+                "groupe": "05.1",
+                "classes": [],
+                "libelles_groupe": "Extraction de houille"
+            }
+        ],
+        "libelles_division": "Extraction de houille et de lignite"
+    }
+{
+        "section": "B",
+        "division": "05",
+        "groupes": [
+            {
+                "groupe": "05.0",
+                "classes": [
+                    {
+                        "classe": "05.10",
+                        "libelles_classe": "Extraction de houille"
+                    }
+                ],
+                "libelles_groupe": "Extraction de houille et de lignite"
+            },
+            {
+                "groupe": "05.1",
+                "classes": [
+                    {
+                        "classe": "05.10",
+                        "libelles_classe": "Extraction de houille"
+                    }
+                ],
+                "libelles_groupe": "Extraction de houille"
+            }
+        ],
+        "libelles_division": "Extraction de houille et de lignite"
+    }
+]
